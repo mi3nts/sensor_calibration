@@ -1,0 +1,49 @@
+csv_files:
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_APDS9002_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_BME280_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_BME680_2023_07_30.csv"
+  
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_GL001_2023_07_30.csv"
+   
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_GPSGPGGA2_2023_07_30.csv"
+ 
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_GPSGPRMC2_2023_07_30.csv"
+   
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_GUV001_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_HM3301_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_IPS7100_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_LIBRAD_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_QLMRAD001_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_SCD30_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_SI114X_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_TB108L_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_TMG3993_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_TSL2591_2023_07_30.csv"
+
+  - name:  "/Users/mlary/Desktop/sensorData/MINTS_001e0636e547_VEML6075_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e06430225_AS3935_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e06430225_GPGGA_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e06430225_MBC001_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e06430225_SEN0232_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e06430225_SKYCAM003_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e06430225_WIMDA_2023_07_30.csv"
+
+  - name: "/Users/mlary/Desktop/sensorData/MINTS_001e06430225_YXXDR_2023_07_30.csv"
+  

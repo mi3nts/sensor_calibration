@@ -1,0 +1,29 @@
+node_ids:
+  - 001e0636e547
+  - 001e06430225
+
+sensor_ids:
+  - IPS7100
+  - WIMDA
+  - GPSGPGGA2
+  - SEN0232
+  - LIBRAD
+  - GPSGPRMC2
+  - VEML6075
+  - TB108L
+  - QLMRAD001
+  - SKYCAM003
+  - SCD30
+  - SI114X
+  - APDS9002
+  - GUV001
+  - TMG3993
+  - BME280
+  - AS3935
+  - HM3301
+  - TSL2591
+  - GL001
+  - GPGGA
+  - BME680
+  - MBC001
+  - YXXDR
