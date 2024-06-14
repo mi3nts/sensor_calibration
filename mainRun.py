@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from functions import process_csv_files  # Ensure this import statement is correct
 
 # Usage
-yaml_file = '/Users/matthewlary/Desktop/General/Programming/Repos/sensor_calibration/SensorDataV2.yaml'
+yaml_file = '/Users/matthewlary/Desktop/Programming/Repos/sensor_calibration/SensorDataV2.yaml'
 
 # Process the CSV files and get the combined dataframe
 combined_dataframe = process_csv_files(yaml_file)
